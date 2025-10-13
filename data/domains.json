@@ -1,0 +1,520 @@
+{
+    "Art": {
+        "description": "Discussing paintings, sculptures, or artistic movements",
+        "emotions": [
+            "Happy",
+            "Excited",
+            "Curious",
+            "Proud",
+            "Amused",
+            "Enthusiastic",
+            "Hopeful"
+        ]
+    },
+    "Books": {
+        "description": "Discussing literature, authors, or reading preferences",
+        "emotions": [
+            "Curious",
+            "Excited",
+            "Nostalgic",
+            "Amused",
+            "Relaxed",
+            "Enthusiastic",
+            "Surprised",
+            "Proud",
+            "Sad"
+        ]
+    },
+    "Cars": {
+        "description": "Discussing car models, driving experiences, or automotive technology",
+        "emotions": [
+            "Excited",
+            "Happy",
+            "Curious",
+            "Proud",
+            "Amused",
+            "Enthusiastic",
+            "Hopeful"
+        ]
+    },
+    "Celebrities": {
+        "description": "Discussing famous personalities, movies, or music",
+        "emotions": [
+            "Curious",
+            "Excited",
+            "Amused",
+            "Grateful",
+            "Sad",
+            "Enthusiastic",
+            "Frustrated",
+            "Surprised",
+            "Angry"
+        ]
+    },
+    "Coding": {
+        "description": "Discussing programming languages, software development, or coding challenges",
+        "emotions": [
+            "Excited",
+            "Happy",
+            "Curious",
+            "Proud",
+            "Amused",
+            "Enthusiastic",
+            "Hopeful"
+        ]
+    },
+    "Cooking": {
+        "description": "Discussing recipes, cooking techniques, or kitchen gadgets",
+        "emotions": [
+            "Happy",
+            "Excited",
+            "Amused",
+            "Grateful",
+            "Relaxed",
+            "Enthusiastic",
+            "Curious"
+        ]
+    },
+    "Education": {
+        "description": "Discussing learning methods, subjects, or educational systems",
+        "emotions": [
+            "Curious",
+            "Excited",
+            "Hopeful",
+            "Proud",
+            "Enthusiastic",
+            "Amused",
+            "Relaxed",
+            "Angry"
+        ]
+    },
+    "Events": {
+        "description": "Discussing social gatherings, festivals, or special occasions",
+        "emotions": [
+            "Happy",
+            "Excited",
+            "Amused",
+            "Grateful",
+            "Proud",
+            "Enthusiastic",
+            "Curious",
+            "Sad"
+        ]
+    },
+    "Fashion": {
+        "description": "Discussing clothing styles, fashion trends, or personal aesthetics",
+        "emotions": [
+            "Excited",
+            "Happy",
+            "Curious",
+            "Proud",
+            "Amused",
+            "Enthusiastic",
+            "Hopeful"
+        ]
+    },
+    "Finance": {
+        "description": "Discussing investments, budgeting, or financial planning",
+        "emotions": [
+            "Worried",
+            "Anxious",
+            "Hopeful",
+            "Curious",
+            "Confused",
+            "Frustrated",
+            "Surprised",
+            "Angry"
+        ]
+    },
+    "Fitness": {
+        "description": "Discussing workout routines, gym equipment, or fitness goals",
+        "emotions": [
+            "Happy",
+            "Excited",
+            "Amused",
+            "Grateful",
+            "Relaxed",
+            "Enthusiastic",
+            "Curious",
+            "Surprised",
+            "Frustrated",
+            "Angry"
+        ]
+    },
+    "Food": {
+        "description": "Discussing recipes, restaurants, or culinary preferences",
+        "emotions": [
+            "Happy",
+            "Excited",
+            "Curious",
+            "Amused",
+            "Grateful",
+            "Enthusiastic",
+            "Nostalgic"
+        ]
+    },
+    "Gaming": {
+        "description": "Discussing video games, consoles, or gaming strategies",
+        "emotions": [
+            "Excited",
+            "Happy",
+            "Curious",
+            "Proud",
+            "Amused",
+            "Enthusiastic",
+            "Hopeful"
+        ]
+    },
+    "Gardening": {
+        "description": "Discussing plant care, gardening tools, or landscaping ideas",
+        "emotions": [
+            "Happy",
+            "Excited",
+            "Amused",
+            "Grateful",
+            "Relaxed",
+            "Enthusiastic",
+            "Curious"
+        ]
+    },
+    "Health": {
+        "description": "Discussing fitness routines, diets, or medical topics",
+        "emotions": [
+            "Hopeful",
+            "Happy",
+            "Grateful",
+            "Relaxed",
+            "Excited",
+            "Proud",
+            "Curious",
+            "Sad"
+        ]
+    },
+    "History": {
+        "description": "Discussing historical events, figures, or time periods",
+        "emotions": [
+            "Nostalgic",
+            "Curious",
+            "Happy",
+            "Proud",
+            "Amused",
+            "Relaxed",
+            "Grateful"
+        ]
+    },
+    "Hobbies": {
+        "description": "Discussing interests, hobbies, or leisure activities",
+        "emotions": [
+            "Happy",
+            "Excited",
+            "Amused",
+            "Grateful",
+            "Relaxed",
+            "Enthusiastic",
+            "Curious"
+        ]
+    },
+    "Holidays": {
+        "description": "Discussing festive celebrations, holiday destinations, or seasonal activities",
+        "emotions": [
+            "Happy",
+            "Excited",
+            "Amused",
+            "Grateful",
+            "Relaxed",
+            "Enthusiastic",
+            "Curious",
+            "Sad"
+        ]
+    },
+    "Home": {
+        "description": "Discussing interior design, home decor, or DIY projects",
+        "emotions": [
+            "Happy",
+            "Excited",
+            "Amused",
+            "Grateful",
+            "Relaxed",
+            "Enthusiastic",
+            "Curious"
+        ]
+    },
+    "Languages": {
+        "description": "Discussing language learning, linguistic diversity, or translation",
+        "emotions": [
+            "Curious",
+            "Excited",
+            "Hopeful",
+            "Proud",
+            "Enthusiastic",
+            "Amused",
+            "Relaxed"
+        ]
+    },
+    "Makeup": {
+        "description": "Discussing makeup techniques, beauty products, or cosmetic brands",
+        "emotions": [
+            "Happy",
+            "Excited",
+            "Amused",
+            "Grateful",
+            "Relaxed",
+            "Enthusiastic",
+            "Curious"
+        ]
+    },
+    "Movies": {
+        "description": "Discussing favorite films, directors, or recent releases",
+        "emotions": [
+            "Excited",
+            "Amused",
+            "Surprised",
+            "Disappointed",
+            "Enthusiastic",
+            "Nostalgic",
+            "Curious",
+            "Sad"
+        ]
+    },
+    "Music": {
+        "description": "Discussing bands, songs, or concert experiences",
+        "emotions": [
+            "Happy",
+            "Excited",
+            "Nostalgic",
+            "Relaxed",
+            "Amused",
+            "Enthusiastic",
+            "Hopeful",
+            "Sad"
+        ]
+    },
+    "Nature": {
+        "description": "Discussing outdoor activities, environmental issues, or natural wonders",
+        "emotions": [
+            "Happy",
+            "Excited",
+            "Amused",
+            "Grateful",
+            "Relaxed",
+            "Enthusiastic",
+            "Curious"
+        ]
+    },
+    "News": {
+        "description": "Discussing actualities, news sources, or current events",
+        "emotions": [
+            "Happy",
+            "Excited",
+            "Amused",
+            "Grateful",
+            "Relaxed",
+            "Enthusiastic",
+            "Curious",
+            "Surprised",
+            "Sad",
+            "Worried",
+            "Angry"
+        ]
+    },
+    "Pets": {
+        "description": "Discussing pet care, animal behavior, or favorite animals",
+        "emotions": [
+            "Happy",
+            "Excited",
+            "Amused",
+            "Grateful",
+            "Relaxed",
+            "Enthusiastic",
+            "Curious"
+        ]
+    },
+    "Philosophy": {
+        "description": "Discussing existential questions or philosophical concepts",
+        "emotions": [
+            "Curious",
+            "Confused",
+            "Hopeful",
+            "Surprised",
+            "Excited",
+            "Amused",
+            "Relaxed"
+        ]
+    },
+    "Photography": {
+        "description": "Discussing camera gear, photography tips, or photo editing",
+        "emotions": [
+            "Happy",
+            "Excited",
+            "Amused",
+            "Grateful",
+            "Relaxed",
+            "Enthusiastic",
+            "Curious"
+        ]
+    },
+    "Podcasts": {
+        "description": "Discussing favorite podcasts, episodes, or podcast hosts",
+        "emotions": [
+            "Happy",
+            "Excited",
+            "Amused",
+            "Grateful",
+            "Relaxed",
+            "Enthusiastic",
+            "Curious",
+            "Sad"
+        ]
+    },
+    "Politics": {
+        "description": "Discussing current events, political figures, or ideologies",
+        "emotions": [
+            "Angry",
+            "Frustrated",
+            "Hopeful",
+            "Surprised",
+            "Curious",
+            "Confused",
+            "Worried"
+        ]
+    },
+    "Relationships": {
+        "description": "Discussing dating experiences, friendships, or family dynamics",
+        "emotions": [
+            "Happy",
+            "Excited",
+            "Amused",
+            "Grateful",
+            "Relaxed",
+            "Enthusiastic",
+            "Curious",
+            "Sad"
+        ]
+    },
+    "Science": {
+        "description": "Discussing scientific discoveries or theories",
+        "emotions": [
+            "Curious",
+            "Excited",
+            "Hopeful",
+            "Proud",
+            "Enthusiastic",
+            "Amused",
+            "Relaxed"
+        ]
+    },
+    "Shopping": {
+        "description": "Discussing shopping habits, fashion trends, or online purchases",
+        "emotions": [
+            "Happy",
+            "Excited",
+            "Amused",
+            "Grateful",
+            "Relaxed",
+            "Enthusiastic",
+            "Curious"
+        ]
+    },
+    "Social Media": {
+        "description": "Discussing online platforms, influencers, or viral trends",
+        "emotions": [
+            "Happy",
+            "Excited",
+            "Amused",
+            "Grateful",
+            "Relaxed",
+            "Enthusiastic",
+            "Curious",
+            "Sad"
+        ]
+    },
+    "Spirituality": {
+        "description": "Discussing meditation, mindfulness, or spiritual practices",
+        "emotions": [
+            "Happy",
+            "Excited",
+            "Amused",
+            "Grateful",
+            "Relaxed",
+            "Enthusiastic",
+            "Curious",
+            "Sad"
+        ]
+    },
+    "Sports": {
+        "description": "Discussing teams, athletes, or recent sports events",
+        "emotions": [
+            "Excited",
+            "Happy",
+            "Proud",
+            "Enthusiastic",
+            "Hopeful",
+            "Amused",
+            "Relaxed"
+        ]
+    },
+    "Technology": {
+        "description": "Discussing new gadgets, software, or tech trends",
+        "emotions": [
+            "Excited",
+            "Curious",
+            "Surprised",
+            "Confused",
+            "Enthusiastic",
+            "Proud",
+            "Frustrated"
+        ]
+    },
+    "Traditions": {
+        "description": "Discussing cultural customs, holidays, or family traditions",
+        "emotions": [
+            "Happy",
+            "Excited",
+            "Amused",
+            "Grateful",
+            "Relaxed",
+            "Enthusiastic",
+            "Curious"
+        ]
+    },
+    "Travel": {
+        "description": "Discussing favorite destinations, travel experiences, or planning trips",
+        "emotions": [
+            "Excited",
+            "Happy",
+            "Curious",
+            "Nostalgic",
+            "Enthusiastic",
+            "Hopeful",
+            "Relaxed",
+            "Surprised",
+            "Amused",
+            "Sad"
+        ]
+    },
+    "Weather": {
+        "description": "Discussing climate patterns, weather forecasts, or natural disasters",
+        "emotions": [
+            "Happy",
+            "Excited",
+            "Curious",
+            "Proud",
+            "Amused",
+            "Enthusiastic",
+            "Hopeful"
+        ]
+    },
+    "Work": {
+        "description": "Discussing job responsibilities, career goals, or workplace",
+        "emotions": [
+            "Frustrated",
+            "Sad",
+            "Anxious",
+            "Hopeful",
+            "Curious",
+            "Confused",
+            "Excited",
+            "Surprised"
+        ]
+    }
+}

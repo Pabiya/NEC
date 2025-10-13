@@ -1,0 +1,147 @@
+{
+    "Amused": [
+        "Happy",
+        "Excited",
+        "Relaxed",
+        "Surprised",
+        "Curious"
+    ],
+    "Angry": [
+        "Frustrated",
+        "Disappointed",
+        "Surprised",
+        "Anxious",
+        "Worried"
+    ],
+    "Bored": [
+        "Curious",
+        "Frustrated",
+        "Relaxed",
+        "Surprised"
+    ],
+    "Anxious": [
+        "Worried",
+        "Confused",
+        "Frustrated",
+        "Hopeful",
+        "Surprised"
+    ],
+    "Confused": [
+        "Curious",
+        "Worried",
+        "Frustrated",
+        "Surprised",
+        "Anxious"
+    ],
+    "Curious": [
+        "Surprised",
+        "Excited",
+        "Confused",
+        "Amused",
+        "Enthusiastic"
+    ],
+    "Disappointed": [
+        "Sad",
+        "Frustrated",
+        "Anxious",
+        "Hopeful",
+        "Angry"
+    ],
+    "Embarrassed": [
+        "Anxious",
+        "Worried",
+        "Amused",
+        "Frustrated",
+        "Surprised"
+    ],
+    "Enthusiastic": [
+        "Excited",
+        "Happy",
+        "Curious",
+        "Hopeful",
+        "Proud"
+    ],
+    "Excited": [
+        "Happy",
+        "Surprised",
+        "Enthusiastic",
+        "Curious",
+        "Proud",
+        "Amused"
+    ],
+    "Frustrated": [
+        "Angry",
+        "Disappointed",
+        "Anxious",
+        "Worried",
+        "Surprised"
+    ],
+    "Grateful": [
+        "Happy",
+        "Relaxed",
+        "Hopeful",
+        "Proud",
+        "Nostalgic"
+    ],
+    "Happy": [
+        "Excited",
+        "Proud",
+        "Amused",
+        "Grateful",
+        "Relaxed",
+        "Enthusiastic",
+        "Curious"
+    ],
+    "Hopeful": [
+        "Excited",
+        "Happy",
+        "Curious",
+        "Grateful",
+        "Anxious",
+        "Nostalgic"
+    ],
+    "Nostalgic": [
+        "Happy",
+        "Sad",
+        "Relaxed",
+        "Grateful",
+        "Hopeful"
+    ],
+    "Proud": [
+        "Happy",
+        "Excited",
+        "Grateful",
+        "Enthusiastic",
+        "Relaxed"
+    ],
+    "Relaxed": [
+        "Happy",
+        "Amused",
+        "Nostalgic",
+        "Grateful",
+        "Hopeful"
+    ],
+    "Sad": [
+        "Disappointed",
+        "Worried",
+        "Nostalgic",
+        "Frustrated",
+        "Anxious",
+        "Hopeful"
+    ],
+    "Surprised": [
+        "Excited",
+        "Confused",
+        "Curious",
+        "Amused",
+        "Worried",
+        "Happy"
+    ],
+    "Worried": [
+        "Anxious",
+        "Confused",
+        "Sad",
+        "Frustrated",
+        "Hopeful"
+    ]
+}
