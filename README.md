@@ -17,12 +17,18 @@ All systems share the same backbone LLM (**GPT-4o-mini**) for fair comparison.
 
 ## Quick Start
 
-1) Export your OpenAI API key:
+1) Install requirements:
+
+```bash
+pip install openai numpy
+```
+
+2) Export your OpenAI API key:
 ```bash
 export OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxx
 ```
 
-2) Run the end-to-end script to generate dialogues and evaluate them:
+3) Run the end-to-end script to generate dialogues and evaluate them:
 
 ```bash
 bash generate_and_evaluate.sh
