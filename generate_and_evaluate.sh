@@ -1,5 +1,5 @@
-idx=1
-num_samples=1000
+idx=0
+num_samples=100
 temperature=0.3
 
 # First generate DeepDialogue dataset
