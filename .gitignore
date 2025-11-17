@@ -1,2 +1,4 @@
 /outputs
 /egs_outputs
+/psych_outputs
+extract_nrc.py
