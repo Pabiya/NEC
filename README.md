@@ -11,16 +11,21 @@
 
 All systems share the same backbone LLM (**GPT-4o-mini**) for fair comparison.
 
+**Evaluation**
 - **LLM-as-judge** evaluation (EGS, FED) + **lexicon-based** metrics (Emotional Entropy, Emotion Matching).
+
 
 ## Quick Start
 
 1) Export your OpenAI API key:
 ```bash
 export OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxx
+```
 
 2) Run the end-to-end script to generate dialogues and evaluate them:
 
-bash scripts/generate_and_evaluate.sh
+```bash
+bash generate_and_evaluate.sh
+```
 
-This script will produce system outputs under outputs/ and write evaluation results (EGS / FED / EE & EM) to their respective folders
+This script will produce system outputs under ```outputs/``` and write evaluation results (EGS / FED / EE & EM) to their respective folders.
